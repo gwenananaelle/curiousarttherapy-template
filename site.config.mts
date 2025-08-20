@@ -8,10 +8,10 @@ export interface SocialLink {
 }
 
 export default {
-	title: 'SR',
-	favicon: 'favicon.ico',
-	owner: 'Sara Richard',
-	profileImage: 'profile.webp',
+	title: 'curious art therapy',
+	favicon: 'logo.png',
+	owner: 'Marie Deschamps',
+	profileImage: 'profile.png',
 	socialLinks: [
 		{
 			name: 'GitHub',

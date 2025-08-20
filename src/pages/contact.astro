@@ -1,0 +1,18 @@
+---
+import Layout from '../layouts/Layout.astro';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import ContactForm from '../components/ContactForm2.astro';
+import Markdown from '../components/Markdown.astro';
+
+const explainer = `
+My name is Marie, I am a 37 year-old art psychotherapist (children and adults) affiliated with the Mexican Institute of Art Psychotherapy (IMPA), with additional training in psycho-oncology and palliative care from the UNAM. If you want to know more about my background, go to About Marie. I look forward to connecting with you, in English, French or Spanish.
+Ready to gift yourself a creative exploration? A typical session, online or in my art therapy studio in Mexico City, lasts 60 minutes. We can also schedule an introductory session (20 Min) to answer any questions you might have. I look forward to connecting with you dear human.
+As a multi-cultural profesional, sessions can be facilitated in English, French and Spanish.
+`;
+---
+
+<BaseLayout title="Contact">
+    <h1 class="mb-10">Contact</h1>
+    <Markdown content={explainer} class="mb-10 text-lg" />
+    <ContactForm class="mb-8" />
+</BaseLayout>
