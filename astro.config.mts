@@ -3,7 +3,7 @@ import tailwindcss from '@tailwindcss/vite';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://gwenananaelle.github.io',
+	site: 'https://gwenananaelle.github.io/curiousarttherapy-template/',
 	base: '',
 	vite: {
 		plugins: [tailwindcss()],
