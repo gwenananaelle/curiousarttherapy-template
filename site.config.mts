@@ -8,7 +8,7 @@ export interface SocialLink {
 }
 
 export default {
-	title: 'curious art therapy',
+	title: 'curiousarttherapy-template',
 	favicon: 'logo.png',
 	owner: 'Marie Deschamps',
 	profileImage: 'profile.png',
