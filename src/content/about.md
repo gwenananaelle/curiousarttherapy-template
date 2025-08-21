@@ -1,7 +1,9 @@
 ---
 title: About me
 ---
+
 ### Hello, Hola, Bonjour!
+
 Hello, Hola, Bonjour!
 My name is Marie, and I’m here to gently guide you on a creative and healing journey. Born and raised in Europe and having lived in several countries, I am now based in Houston (USA), where I work as a practicing artist and provisionally licensed art therapist and counselor (LPC-A, ATR-P). I support children, adolescents, and adults navigating challenging life transitions, grief, serious illness, and neurodivergence.
 I hold a Ph.D. in Expressive Therapies from Lesley University (USA) and a Master’s in Counseling and Art Therapy from Edgewood College (USA). My intensive clinical training in psycho-oncology, palliative care, and pain psychology included work with children and adults at the General Hospital in Mexico City (2019–2020) and at MD Anderson Cancer Center in Houston (2024–2025). An innovator, I created Icanfeel, a symptom-expression software currently in clinical trial at MD Anderson, where I collaborate with physicians and patients to explore how art can function as a non-verbal language for those living with cancer or in palliative care. My work bridges the worlds of art, science, and technology, expanding the ways people can express, heal, and be understood.
