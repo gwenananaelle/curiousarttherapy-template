@@ -1,0 +1,49 @@
+---
+import MainLayout from '../layouts/MainLayout.astro';
+const base = import.meta.env.BASE_URL;
+---
+
+<MainLayout>
+    <section class="pt-32 pb-20">
+        <div class="container-custom">
+            <div class="max-w-2xl mx-auto mb-16">
+                <h1 class="text-4xl md:text-5xl font-bold mb-4">Reach Out</h1>
+                <div class="prose text-gray-700 mb-6">
+                    <p>Ready to gift yourself a creative exploration? A typical session, online or in my art therapy studio in Mexico City, lasts 60 minutes. We can also schedule an introductory session (20 Min) to answer any questions you might have. I look forward to connecting with you dear human. As a multi-cultural profesional, sessions can be facilitated in English, French and Spanish.</p> 
+                </div>
+                <div>
+					<img
+						src=`${base}/images/contactImg.png`
+						alt=""
+						class="w-full h-auto rounded-lg shadow-lg border-8 my-4 border-white md:p-4"
+						width="720"
+						height="720"
+					/>
+				</div>
+                    <form action="" method="post">
+                        <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-6">
+                            <div class="mb-6">
+                                <label for="first_name" class="mb-2">First name</label>
+                                <input type="text" id="first_name" class="border rounded-md p-2 w-full" placeholder="First Name" required />
+                            </div>
+                            <div class="mb-6">
+                                <label for="last_name" class="mb-2">Last name</label>
+                                <input type="text" id="last_name" class="border rounded-md p-2 w-full" placeholder="Last Name" required />
+                            </div>
+                        </div>
+                        <div class="mb-6">
+                            <label for="email" class="mb-2">Email address</label>
+                            <input type="email" id="email" class="border rounded-md p-2 w-full" placeholder="john.doe@company.com" required />
+                        </div>
+                        <div class="mb-6">
+                            <label for="message" class="mb-2">Your message</label>
+                            <textarea id="message" rows="10" class="border rounded-md p-2 w-full" placeholder="Write your thoughts here..."></textarea>
+                        </div>
+                        <p class="button">
+                            <button class="mt-8 inline-block px-6 py-3 border-2 border-black rounded-md hover:bg-black hover:text-white transition-all duration-300 text-sm md:text-base font-medium transform hover:scale-105 active:scale-95" type="submit">Send your message</button>
+                        </p>
+                    </form>
+            </div>
+        </div>
+    </section>
+</MainLayout>
