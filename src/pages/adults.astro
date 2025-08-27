@@ -1,9 +1,18 @@
 ---
 import MainLayout from '../layouts/MainLayout.astro';
 import { Content as AdultsPage } from '../content/adults.md';
-import TwoColumnsImgs from '../components/TwoColumnsImgs.astro';
-import ThreeColumnsImgs from '../components/ThreeColumnsImgs.astro';
-const base = import.meta.env.BASE_URL;
+
+import { Image } from 'astro:assets';
+import davinciQuote from '../assets/adults/davinciQuote.png';
+import angelouQuote from '../assets/adults/angelouQuote.png';
+import whyattButterfly from '../assets/adults/whyattButterfly.png';
+import worrycircle from '../assets/adults/worrycircle.png';
+import emotionalmasking from '../assets/adults/emotionalmasking.png';
+import embracingdarkness from '../assets/adults/embracingdarkness.png';
+import mayaart2 from '../assets/adults/mayaart2.png';
+import mayaart5 from '../assets/adults/mayaart5.png';
+import ikigai from '../assets/adults/ikigai.png';
+import einsteinQuote from '../assets/adults/einsteinQuote.png';
 ---
 
 <MainLayout>
@@ -12,61 +21,80 @@ const base = import.meta.env.BASE_URL;
 			<div class="max-w-2xl mx-auto text-center mb-16">
 				<h1 class="text-4xl md:text-5xl font-bold mb-4">Adults</h1>
 				<div>
-					<TwoColumnsImgs
-						page="adults"
-						image1="davinciQuote.png"
-						alt1="quote by Leonardo Da Vinci saying all of our knowledge has its origin in our perceptions"
-						image2="angelouQuote.png"
-						alt2="There is no greater agony than bearing an untold story inside you"
-					/>
-					<ThreeColumnsImgs
-						page="adults"
-						image1="whyattButterfly.png"
-						alt1=""
-						image2="worrycircle.png"
-						alt2=""
-						image3="emotionalmasking.png"
-						alt3=""
-					/>
-					<TwoColumnsImgs
-						page="adults"
-						image1="artisfeeling.png"
-						alt1=""
-						image2="embracingdarkness.png"
-						alt2=""
-					/>
+					<div class="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
+						<div>
+							<Image
+								src={davinciQuote}
+								alt="quote by Leonardo Da Vinci saying all of our knowledge has its origin in our perceptions"
+								class="w-full h-auto rounded-lg shadow-lg border-8 my-4 border-white md:p-4"
+							/>
+						</div>
+						<div>
+							<Image
+								src={angelouQuote}
+								alt="quote by Maya Angelou saying There is no greater agony than bearing an untold story inside you"
+								class="w-full h-auto rounded-lg shadow-lg border-8 my-4 border-white md:p-4"
+							/>
+						</div>
+					</div>
+					<div class="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
+						<div>
+							<Image
+								src={whyattButterfly}
+								alt=""
+								class="w-full h-auto rounded-lg shadow-lg border-8 my-4 border-white md:p-4"
+							/>
+						</div>
+						<div>
+							<Image
+								src={worrycircle}
+								alt=""
+								class="w-full h-auto rounded-lg shadow-lg border-8 my-4 border-white md:p-4"
+							/>
+						</div>
+					</div>
+					<div class="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
+						<div>
+							<Image
+								src={emotionalmasking}
+								alt=""
+								class="w-full h-auto rounded-lg shadow-lg border-8 my-4 border-white md:p-4"
+							/>
+						</div>
+						<div>
+							<Image
+								src={embracingdarkness}
+								alt=""
+								class="w-full h-auto rounded-lg shadow-lg border-8 my-4 border-white md:p-4"
+							/>
+						</div>
+					</div>
 				</div>
 				<div class="prose text-gray-700 mb-6">
 					<AdultsPage />
 				</div>
-				<div>
-					<ThreeColumnsImgs
-						page="adults"
-						image1="mayaart1.png"
-						alt1=""
-						image2="mayaart2.png"
-						alt2=""
-						image3="mayaart3.png"
-						alt3=""
-					/>
-					<ThreeColumnsImgs
-						page="adults"
-						image1="mayaart4.png"
-						alt1=""
-						image2="mayaart5.png"
-						alt2=""
-						image3="mayaart6.png"
-						alt3=""
-					/>
+				<div class="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
+					<div>
+						<Image
+							src={mayaart2}
+							alt=""
+							class="w-full h-auto rounded-lg shadow-lg border-8 my-4 border-white md:p-4"
+						/>
+					</div>
+					<div>
+						<Image
+							src={mayaart5}
+							alt=""
+							class="w-full h-auto rounded-lg shadow-lg border-8 my-4 border-white md:p-4"
+						/>
+					</div>
 				</div>
 				<div class="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
 					<div>
-						<img
-							src=`${base}/images/adults/ikigai.png`
+						<Image
+							src={ikigai}
 							alt=""
 							class="w-full h-auto rounded-lg shadow-lg border-8 my-4 border-white md:p-4"
-							width="720"
-							height="720"
 						/>
 					</div>
 					<div class="prose text-gray-700 mb-6">
@@ -76,13 +104,13 @@ const base = import.meta.env.BASE_URL;
 						</p>
 					</div>
 				</div>
-				<TwoColumnsImgs
-					page="adults"
-					image1="richardsonQuote.png"
-					alt1=""
-					image2="einsteinQuote.png"
-					alt2=""
-				/>
+				<div>
+					<Image
+						src={einsteinQuote}
+						alt=""
+						class="w-full h-auto rounded-lg shadow-lg border-8 my-4 border-white md:p-4"
+					/>
+				</div>
 				<div class="prose text-gray-700 mb-6">
 					<p>
 						If you are curious about the philosophy of art therapy, read: <a
