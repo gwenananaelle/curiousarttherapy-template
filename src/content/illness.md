@@ -2,7 +2,15 @@
 title: Illness
 ---
 
-Illness can make the bravest of us feeling lost: why me? What will happen to my family? will I recover? will I change?
-Anxiety, fear, guilt, inability to concentrate, difficulty in talking with loved ones, changes in sleep patterns.. illness, physical and/or mental, can affect our quality of life significantly. In turn these side effects can impact our beliefs and hinder our ability to adapt to challenges.
-Art therapy has specific tools and techniques to accompany you and your family through these challenging times. As an art therapist specialized in psycho-oncology, I have been practicing at a hospital with children and adults. I always adapt my sessions to your needs, and have experience working with patients with a range of abilities and pain level.
-Once in an art session, your imagination takes over and you are in control again. Medical art therapy can help alleviate anxiety, facilitate communication with loved ones, and help you become more resilient.
+Illness can shake even the bravest of us. Questions like “Why me?” “What will happen to my family?” “Will I recover? Will I change?” often arise. Anxiety, fear, guilt, difficulty concentrating, challenges in communicating with loved ones, changes in sleep patterns, these are just some of the ways physical or mental illness can affect quality of life.
+These struggles can, in turn, impact our beliefs and make it harder to adapt to new challenges. This is where art therapy offers a supportive path. With its specific tools and creative techniques, art therapy helps patients and families navigate the emotional and relational dimensions of illness while enhancing symptom management in collaboration with the medical team.
+As an art therapist specialized in psycho-oncology, I have practiced in hospital settings with both children and adults. My sessions are always adapted to each person’s needs and abilities, including those experiencing pain, fatigue, or limited mobility. In the safe space of an art session, imagination takes the lead, restoring a sense of agency and self-expression.
+Medical art therapy can:
+• Alleviate anxiety and stress.
+• Facilitate meaningful communication with loved ones.
+• Provide a sense of control and resilience in the face of uncertainty.
+Art becomes not only a way of coping, but also a way of reconnecting, with yourself, your relationships, and your inner resources for healing.
+References
+• Wood, M. J. M., Molassiotis, A., & Payne, S. (2011). What research evidence is there for the use of art therapy in the management of symptoms in adults with cancer? Psycho‐Oncology, 20(2), 135–145. [https://doi.org/10.1002/pon.1722](https://doi.org/10.1002/pon.1722)
+• Svensk, A. C., et al. (2009). Art therapy improves coping resources: A randomized, controlled study among women with breast cancer. Palliative & Supportive Care, 7(1), 87–95. [https://doi.org/10.1017/S147895150900011X](https://doi.org/10.1017/S147895150900011X)
+• Puetz, T. W., Morley, C. A., & Herring, M. P. (2013). Effects of creative arts therapies on psychological symptoms and quality of life in patients with cancer. JAMA Internal Medicine, 173(11), 960–969. [https://doi.org/10.1001/jamainternmed.2013.836](https://doi.org/10.1001/jamainternmed.2013.836)
