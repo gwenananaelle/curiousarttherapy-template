@@ -2,6 +2,7 @@
 import MainLayout from '../layouts/MainLayout.astro';
 import LandingHero from '../components/LandingHero-1.astro';
 import FeaturedWorkScroll from '../components/FeaturedWorkScroll.astro';
+import Button from '../components/Button.astro';
 import { Image } from 'astro:assets';
 import mayaart1 from '../assets/intro/mayaart1.png';
 import einsteinQuote from '../assets/intro/einsteinQuote.png';
@@ -140,16 +141,8 @@ const base = import.meta.env.BASE_URL;
 			</div>
 			<div class="prose text-gray-700 mb-6 text-left">
 				<p>Reach out and let’s start your healing journey together</p>
-				<a
-					href=`${base}/contact`
-					class="mt-8 inline-block px-6 py-3 border-2 border-anchor-yellow bg-anchor-yellow text-white rounded-md
-								hover:border-onthology-orange hover:bg-onthology-orange transition-all duration-300
-								text-sm md:text-base font-medium
-								transform hover:scale-105 active:scale-95"
-				>
-					Reach out
-				</a>
 			</div>
+			<Button link="contact" content="Reach out" class="text-center" />
 		</div>
 	</section>
 </MainLayout>
