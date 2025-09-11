@@ -21,5 +21,7 @@ Building on this work, we are developing Wecanfeel, a companion tool designed to
 As a visiting scholar at The New School University in New York, I research the role of AI and attunement in therapy.<br>
 This work explores whether AI generated images and tools can enhance empathy, presence, and relational depth, or whether they risk distancing us. Through collaborative studies with clinicians and artists, I examine how technology might support, rather than replace, the therapeutic relationship, while also considering issues of ethics, inclusivity, and creativity.<br>
 ![](../assets/research/midjourney.jpg)
-A New Dimension of Care.<br>
+
+### A New Dimension of Care.<br>
+
 Together, these projects imagine a future where art, technology, and clinical care intertwine. Rooted in compassion and curiosity, this research asks how we can reimagine healthcare through creativity, ensuring that patients and families feel heard, seen, and supported at every stage.<br>

@@ -11,13 +11,16 @@ Will I recover?<br>
 Will I change?<br>
 Anxiety, fear, guilt, difficulty concentrating, challenges in communicating with loved ones, and changes in sleep patterns are just some of the ways physical or mental illness can disrupt quality of life. Over time, these struggles can also affect our beliefs and make it harder to adapt to new challenges.<br>
 This is where art therapy offers a supportive path. With its specific tools and creative techniques, art therapy helps patients and families navigate the emotional and relational dimensions of illness while enhancing symptom management in collaboration with the medical team.<br>
+
 As an art therapist specialized in psycho-oncology, I have practiced in hospital settings with both children and adults. My sessions are always adapted to each person’s needs and abilities, including those experiencing pain, fatigue, or limited mobility. In the safe space of an art session, imagination takes the lead, restoring a sense of agency and self-expression.<br>
+
 How Medical Art Therapy Can Help:<br>
 
 - Alleviate anxiety and stress
 - Facilitate meaningful communication with loved ones
 - Provide a sense of control and resilience in the face of uncertainty
-  Art becomes not only a way of coping but also a way of reconnecting with yourself, with your relationships, and with your inner resources for healing.<br>
+
+Art becomes not only a way of coping but also a way of reconnecting with yourself, with your relationships, and with your inner resources for healing.<br>
 
 References
 
