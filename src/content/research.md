@@ -8,7 +8,7 @@ At the heart of my work is Icanfeel, a digital tool I co-developed with programm
 Icanfeel was designed to help patients express symptoms through collage, metaphor, and voice. It is currently in clinical trial at MD Anderson Cancer Center.<br>
 By translating art based expressions into health data, the tool complements traditional assessments and opens new channels of communication when words are not enough.<br>
 Icanfeel bridges art and science, offering patients, especially those living with cancer or in palliative care, a creative language for their experience.<br>
-You can read the preliminary results from the trial in my published (doctoral dissertation)[https://digitalcommons.lesley.edu/expressive_therapies_dissertation/5/].
+You can read the preliminary results from the trial in my published [doctoral dissertation](https://digitalcommons.lesley.edu/expressive_therapies_dissertation/5/).
 ![](../assets/research/icanfeel.jpg)
 
 ### Wecanfeel: Expanding to Families

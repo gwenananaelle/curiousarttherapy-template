@@ -2,8 +2,6 @@
 title: Illness
 ---
 
-## llness and the Role of Art Therapy
-
 Illness can shake even the bravest of us. Questions often arise:<br>
 Why me?<br>
 What will happen to my family?<br>
@@ -22,8 +20,8 @@ How Medical Art Therapy Can Help:<br>
 
 Art becomes not only a way of coping but also a way of reconnecting with yourself, with your relationships, and with your inner resources for healing.<br>
 
-References
+### References
 
-- Wood, M. J. M., Molassiotis, A., & Payne, S. (2011). What research evidence is there for the use of art therapy in the management of symptoms in adults with cancer? Psycho‐Oncology, 20(2), 135–145. [https://doi.org/10.1002/pon.1722](https://doi.org/10.1002/pon.1722)
-- Svensk, A. C., et al. (2009). Art therapy improves coping resources: A randomized, controlled study among women with breast cancer. Palliative & Supportive Care, 7(1), 87–95. [https://doi.org/10.1017/S147895150900011X](https://doi.org/10.1017/S147895150900011X)
-- Puetz, T. W., Morley, C. A., & Herring, M. P. (2013). Effects of creative arts therapies on psychological symptoms and quality of life in patients with cancer. JAMA Internal Medicine, 173(11), 960–969. [https://doi.org/10.1001/jamainternmed.2013.836](https://doi.org/10.1001/jamainternmed.2013.836).
+- [Wood, M. J. M., Molassiotis, A., & Payne, S. (2011).](https://doi.org/10.1002/pon.1722) What research evidence is there for the use of art therapy in the management of symptoms in adults with cancer? Psycho‐Oncology, 20(2), 135–145.
+- [Svensk, A. C., et al. (2009).](https://doi.org/10.1017/S147895150900011X) Art therapy improves coping resources: A randomized, controlled study among women with breast cancer. Palliative & Supportive Care, 7(1), 87–95.
+- [Puetz, T. W., Morley, C. A., & Herring, M. P. (2013).](https://doi.org/10.1001/jamainternmed.2013.836) Effects of creative arts therapies on psychological symptoms and quality of life in patients with cancer. JAMA Internal Medicine, 173(11), 960–969.
