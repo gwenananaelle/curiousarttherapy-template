@@ -13,7 +13,8 @@ I welcome opportunities to collaborate with universities, health organizations, 
 ![](../assets/speaker/mayaArt2.jpg)
 
 Selected Conference Presentations & Invited Lectures
-Grief, Palliative Care & Psycho-Oncology
+
+### Grief, Palliative Care & Psycho-Oncology
 
 - He(Art) and Spirit: Art Therapy in Palliative Care — Conference Presentation, 14th Annual Collective Soul Symposium, MD Anderson Cancer Center, Houston, TX (2024)
 - The Art of Grieving — Invited Lecture, Psychiatry Educational Lecture Series, MD Anderson Cancer Center, Houston, TX (2024)
@@ -22,7 +23,9 @@ Grief, Palliative Care & Psycho-Oncology
 - Exploration of Grief — Interactive workshop, Rothko Chapel, Houston, TX (2023)
 - Art and Grief — Invited Lecture, Jung Institute, Houston, TX (2023)
 - Art Therapy in Pediatric Oncology — Conference Presentation, Latin American Pediatric Oncology Conference, Guadalajara, Mexico (2024)
-  Innovation, AI & Health
+
+### Innovation, AI & Health
+
 - Artificial Intelligence in Precision Medicine: Challenges and Opportunities — Panel Presentation, EU4Health Conference (2025)
 - Using Generative AI Imagery in Art Therapy: Ethics, Identities, and Attunement in Art Therapy — Conference Presentation, New York State Psychological Association’s 2024 Annual Convention
 - The Innovation Journey — Conference Presentation, American Art Therapy Association Conference, Pittsburgh, PA (2024)
