@@ -17,15 +17,16 @@ Beyond painting, I create sculptures, fabric art, and works on found objects and
 Writing and spoken word performance remain integral to my work, where I weave words and images into immersive storytelling. I believe that creative expression is our universal birthright. Technique is not required to share one’s unique perception or contribute to collective culture; our sensibility and voice can emerge in many forms—on canvas, through natural or recycled materials, or even through the movement of our own bodies.<br>
 
 My artwork has been exhibited internationally, including:
-• MD Anderson Cancer Center, Pain Clinic (TX, USA, since 2024)
-• Galerie le 18 bis (Paris, 2018)
-• London Art Biennale (London, 2013)
-• Art Paris (2012)
-• Galerie Étienne de Causans (Solo Show, Paris, 2011)
-• IparkArt (Paris, 2010).<br>
-More of my work can be seen at [mayadelcampo.com](mayadelcampo.com).
-![](../assets/art/alebrije.jpg)
-![](../assets/art/multibrush.jpg)
+
+- MD Anderson Cancer Center, Pain Clinic (TX, USA, since 2024)
+- Galerie le 18 bis (Paris, 2018)
+- London Art Biennale (London, 2013)
+- Art Paris (2012)
+- Galerie Étienne de Causans (Solo Show, Paris, 2011)
+- IparkArt (Paris, 2010).<br>
+  More of my work can be seen at [mayadelcampo.com](mayadelcampo.com).
+  ![](../assets/art/alebrije.jpg)
+  ![](../assets/art/multibrush.jpg)
 
 A highlight of my practice is live painting with music, translating sound into color and gesture in real time. I have performed this at concerts and recently brought it into the hospital setting through a collaboration with the Neurosurgery Department at MD Anderson Cancer Center, as part of their Music and Medicine series. There, I invite both patients and audiences to join me in live painting, transforming music into collective visual expression.
 
