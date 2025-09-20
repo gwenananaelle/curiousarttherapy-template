@@ -24,6 +24,8 @@ Selected Conference Presentations & Invited Lectures
 - Art and Grief — Invited Lecture, Jung Institute, Houston, TX (2023)
 - Art Therapy in Pediatric Oncology — Conference Presentation, Latin American Pediatric Oncology Conference, Guadalajara, Mexico (2024)
 
+![](../assets/speaker/egyptFestival.jpg)
+
 ### Innovation, AI & Health
 
 - Artificial Intelligence in Precision Medicine: Challenges and Opportunities — Panel Presentation, EU4Health Conference (2025)
