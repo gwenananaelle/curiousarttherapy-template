@@ -2,7 +2,7 @@
 title: Artistic Practice
 ---
 
-![](../assets/art/eyetoeye.jpg)
+![](../assets/art/moments00018.jpg)
 
 My artistic journey began with five years of training in oil painting in Paris under the mentorship of Patrice de Pracontal at the Atelier de Recherche Picturale. There, I learned to study and copy the Impressionist masters, discovering through practice the importance of contrast, light and shadow, harmony, and balance, principles that extend beyond art into life itself, and that mirror the relational attunement essential to the therapeutic alliance.<br>
 
@@ -14,7 +14,7 @@ In Mexico, I turned to clay and ritual installations, deeply inspired by the cul
 
 Beyond painting, I create sculptures, fabric art, and works on found objects and canvases, always exploring materiality as a metaphor for resilience and transformation. I also enjoy working with AI-generated art using Midjourney, digital creations, and immersive experiences in virtual reality with Multi-Brush, expanding my practice into new technological and sensory dimensions.<br>
 
-Writing and spoken word performance remain integral to my work, where I weave words and images into immersive storytelling. I believe that creative expression is our universal birthright. Technique is not required to share one’s unique perception or contribute to collective culture; our sensibility and voice can emerge in many forms—on canvas, through natural or recycled materials, or even through the movement of our own bodies.<br>
+Writing and spoken word performance remain integral to my work, where I weave words and images into immersive storytelling. I believe that creative expression is our universal birthright. Technique is not required to share one’s unique perception or contribute to collective culture; our sensibility and voice can emerge in many forms on canvas, through natural or recycled materials, or even through the movement of our own bodies.<br>
 
 My artwork has been exhibited internationally, including:
 

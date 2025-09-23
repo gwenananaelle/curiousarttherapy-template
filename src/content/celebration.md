@@ -7,4 +7,4 @@ Every culture and family honors these passages in its own way. Some gather aroun
 
 As an art therapist and celebrant, I accompany individuals and families in designing ceremonies that bring these moments to life through creativity and symbolic action. Together we may paint, write poetry, create music, weave natural materials, or craft collaborative pieces that hold memory and meaning. My role is to provide a safe, imaginative space where you can connect with your heritage, your beliefs, and your relationships, and translate them into rituals that are both healing and memorable.<br>
 
-Whether celebrating a joyful milestone or holding space for grief, I will support you in shaping a ceremony that feels inclusive, original, and deeply personal—one that transforms life’s passages into experiences of connection and lasting meaning
+Whether celebrating a joyful milestone or holding space for grief, I will support you in shaping a ceremony that feels inclusive, original, and deeply personal one that transforms life’s passages into experiences of connection and lasting meaning

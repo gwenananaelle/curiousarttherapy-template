@@ -2,7 +2,7 @@
 title: Illness
 ---
 
-Illness can shake even the bravest of us. Questions often arise:<br>
+Illness can shake even the most resilient of us. Questions often arise:<br>
 
 - Why me?
 - What will happen to my family?
