@@ -23,10 +23,11 @@ My artwork has been exhibited internationally, including:
 - London Art Biennale (London, 2013)
 - Art Paris (2012)
 - Galerie Étienne de Causans (Solo Show, Paris, 2011)
-- IparkArt (Paris, 2010).<br>
-  More of my work can be seen at [mayadelcampo.com](mayadelcampo.com).
-  ![](../assets/art/alebrije.jpg)
-  ![](../assets/art/multibrush.jpg)
+- IparkArt (Paris, 2010).
+  
+More of my work can be seen at [mayadelcampo.com](https://www.mayadelcampo.com).
+![](../assets/art/alebrije.jpg)
+![](../assets/art/multibrush.jpg)
 
 A highlight of my practice is live painting with music, translating sound into color and gesture in real time. I have performed this at concerts and recently brought it into the hospital setting through a collaboration with the Neurosurgery Department at MD Anderson Cancer Center, as part of their Music and Medicine series. There, I invite both patients and audiences to join me in live painting, transforming music into collective visual expression.
 
