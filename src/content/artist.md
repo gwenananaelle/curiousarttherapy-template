@@ -24,7 +24,7 @@ My artwork has been exhibited internationally, including:
 - Art Paris (2012)
 - Galerie Étienne de Causans (Solo Show, Paris, 2011)
 - IparkArt (Paris, 2010).
-  
+
 More of my work can be seen at [mayadelcampo.com](https://www.mayadelcampo.com).
 ![](../assets/art/alebrije.jpg)
 ![](../assets/art/multibrush.jpg)
