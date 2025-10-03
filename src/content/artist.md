@@ -4,7 +4,7 @@ title: Artistic Practice
 
 ![](../assets/art/moments00018.jpg)
 
-My artistic journey began with five years of training in oil painting in Paris under the mentorship of Patrice de Pracontal at the Atelier de Recherche Picturale. There, I learned to study and copy the Impressionist masters, discovering through practice the importance of contrast, light and shadow, harmony, and balance, principles that extend beyond art into life itself, and that mirror the relational attunement essential to the therapeutic alliance.<br>
+My artistic journey began with five years of training in oil painting in Paris under the mentorship of Patrice de Pracontal at the Atelier de Recherche Picturale. There, I learned to study and copy the Impressionist masters, discovering through practice the importance of contrast, light and shadow, harmony, and balance-principles that extend beyond art into life itself, and that mirror the relational attunement essential to the therapeutic alliance.<br>
 
 In Barcelona, I immersed myself in Studio Nomada, where I explored contemporary practices including graffiti and performance art. These experiences taught me to embrace spontaneity, risk, and the dialogue between individual expression and public space, lessons that resonate with therapy as a co-created process, and with my research into how creativity fosters new forms of communication and resilience.<br>
 

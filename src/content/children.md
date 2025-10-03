@@ -2,7 +2,7 @@
 title: Children
 ---
 
-When engaging children in an art psychotherapy session, their imagination, games, and dreams become the language of our conversation. Through a combination of play and art making in a safe and supportive environment, children are able to express how they see and experience the world. The therapist then helps them give meaning to these expressions and gently connects them to their emotions, relationships, and daily challenges.<br>
+When engaging children in an art psychotherapy session, their imagination, games, and dreams become the language of our conversation. Through a combination of play and art-making in a safe and supportive environment, children are able to express how they see and experience the world. The therapist then helps them give meaning to these expressions and gently connects them to their emotions, relationships, and daily challenges.<br>
 
 This unique method lessens the imbalance of knowledge and power that often exists between child and adult, allowing art to serve as a healthy and dynamic bridge between inner experience and outer expression. It is a space where children can test ideas, build confidence, and discover new ways of coping.<br>
 I would be glad to speak with you about how to accompany your child as they explore their questions, emotions, and stages of growth.<br>
